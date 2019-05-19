@@ -1,0 +1,7 @@
+D:\Study\С#\MY\KOLO1_Z1\bin\Debug\KOLO1_Z1.exe.config
+D:\Study\С#\MY\KOLO1_Z1\bin\Debug\KOLO1_Z1.exe
+D:\Study\С#\MY\KOLO1_Z1\bin\Debug\KOLO1_Z1.pdb
+D:\Study\С#\MY\KOLO1_Z1\obj\Debug\KOLO1_Z1.csprojResolveAssemblyReference.cache
+D:\Study\С#\MY\KOLO1_Z1\obj\Debug\KOLO1_Z1.csproj.CoreCompileInputs.cache
+D:\Study\С#\MY\KOLO1_Z1\obj\Debug\KOLO1_Z1.exe
+D:\Study\С#\MY\KOLO1_Z1\obj\Debug\KOLO1_Z1.pdb
