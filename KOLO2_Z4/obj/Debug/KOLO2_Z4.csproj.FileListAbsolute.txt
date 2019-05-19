@@ -1,0 +1,6 @@
+D:\Study\С#\MY\KOLO2_Z4\obj\Debug\KOLO2_Z4.csproj.CoreCompileInputs.cache
+D:\Study\С#\MY\KOLO2_Z4\bin\Debug\KOLO2_Z4.exe.config
+D:\Study\С#\MY\KOLO2_Z4\bin\Debug\KOLO2_Z4.exe
+D:\Study\С#\MY\KOLO2_Z4\bin\Debug\KOLO2_Z4.pdb
+D:\Study\С#\MY\KOLO2_Z4\obj\Debug\KOLO2_Z4.exe
+D:\Study\С#\MY\KOLO2_Z4\obj\Debug\KOLO2_Z4.pdb
