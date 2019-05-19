@@ -1,0 +1,6 @@
+D:\Study\С#\MY\Exam2_Z2\bin\Debug\Exam2_Z2.exe.config
+D:\Study\С#\MY\Exam2_Z2\bin\Debug\Exam2_Z2.exe
+D:\Study\С#\MY\Exam2_Z2\bin\Debug\Exam2_Z2.pdb
+D:\Study\С#\MY\Exam2_Z2\obj\Debug\Exam2_Z2.csproj.CoreCompileInputs.cache
+D:\Study\С#\MY\Exam2_Z2\obj\Debug\Exam2_Z2.exe
+D:\Study\С#\MY\Exam2_Z2\obj\Debug\Exam2_Z2.pdb

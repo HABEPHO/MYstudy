@@ -1,0 +1,7 @@
+D:\Study\С#\MY\Exam2_Z3\bin\Debug\Exam2_Z3.exe.config
+D:\Study\С#\MY\Exam2_Z3\bin\Debug\Exam2_Z3.exe
+D:\Study\С#\MY\Exam2_Z3\bin\Debug\Exam2_Z3.pdb
+D:\Study\С#\MY\Exam2_Z3\obj\Debug\Exam2_Z3.csprojResolveAssemblyReference.cache
+D:\Study\С#\MY\Exam2_Z3\obj\Debug\Exam2_Z3.csproj.CoreCompileInputs.cache
+D:\Study\С#\MY\Exam2_Z3\obj\Debug\Exam2_Z3.exe
+D:\Study\С#\MY\Exam2_Z3\obj\Debug\Exam2_Z3.pdb
